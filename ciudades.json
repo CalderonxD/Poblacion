@@ -1,11 +1,22 @@
 {
-    "ciudades":[
+    "ciudades": [
         {
-            "nombre":"Buenos Aires",
-            "pais":"Argentina",
-            "codigo-postal":"C1000-14xx",
-            "poblacion":"15,370,000 Personas"
+            "nombre": "Buenos Aires",
+            "pais": "Argentina",
+            "codigo-postal": "C1000-14xx",
+            "poblacion": "15,370,000 Personas"
         },
-        {}
+        {
+            "nombre": "Bucaramanga",
+            "pais": "Colombia",
+            "codigo-postal": "1",
+            "poblacion": "5000000"
+        },
+        {
+            "nombre": "Barranquilla",
+            "pais": "Colombia",
+            "codigo-postal": "5",
+            "poblacion": "20000000 Personas"
+        }
     ]
 }
