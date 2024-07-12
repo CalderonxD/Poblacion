@@ -18,7 +18,7 @@ Población es un sistema integral de gestión de las ciudades diseñado para ver
 
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone <>
+    git clone <https://github.com/CalderonxD/Poblacion/blob/main/README.md>
     ```
 2. Navega al directorio del proyecto:
     ```bash
