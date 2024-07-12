@@ -1,13 +1,13 @@
-# Poblacion
+# Población
+
 
 ## Contenidos del Proyecto
 
 - **main.py**: Punto de entrada principal de la aplicación.
-- **menu.py**:
-- **modulo_ciudades.py**:
-- **datos.py**:
-- ****:
-- **ciudades.json**:
+- **menu.py**: Módulo que maneja los menús y la navegación de la aplicación.
+- **modulo_ciudades.py**: Módulo para la gestión de las ciudades 
+- **datos.py**: Módulo para la gestión de los datos 
+- **ciudades.json**: Archivo JSON con el historial de ciudades.
 ## Tecnologías utilizadas
 
 - Python 3: Lenguaje de programación utilizado para el desarrollo del sistema.
