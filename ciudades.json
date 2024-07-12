@@ -1,0 +1,11 @@
+{
+    "ciudades":[
+        {
+            "nombre":"Buenos Aires",
+            "pais":"Argentina",
+            "codigo-postal":"C1000-14xx",
+            "poblacion":"15,370,000 Personas"
+        },
+        {}
+    ]
+}
