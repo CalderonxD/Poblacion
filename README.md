@@ -1,12 +1,12 @@
-# Población
-
+## Población
+Población es un sistema integral de gestión de las ciudades diseñado para ver ciudades registradas en el sistema. Este proyecto permite la administración de ciudades, código postal, país y población.
 
 ## Contenidos del Proyecto
 
 - **main.py**: Punto de entrada principal de la aplicación.
 - **menu.py**: Módulo que maneja los menús y la navegación de la aplicación.
-- **modulo_ciudades.py**: Módulo para la gestión de las ciudades 
-- **datos.py**: Módulo para la gestión de los datos 
+- **modulo_ciudades.py**: Módulo para la gestión de las ciudades.
+- **datos.py**: Módulo para la gestión de los datos.
 - **ciudades.json**: Archivo JSON con el historial de ciudades.
 ## Tecnologías utilizadas
 
